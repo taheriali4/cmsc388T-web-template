@@ -1,4 +1,4 @@
-name: Deploy workflow
+name: Update workflow
 
 # Controls when the workflow will run
 on:
